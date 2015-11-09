@@ -2,7 +2,7 @@
 
 **A middleware that load balance requests between several other middlewares**
 
-[![npm status](http://img.shields.io/npm/v/loadbalance-middleware.svg?style=flat-square)](https://www.npmjs.org/package/loadbalance-middleware) [![Travis build status](https://img.shields.io/travis/kessler/node-loadbalance-middleware.svg?style=flat-square&label=travis)](http://travis-ci.org/kessler/node-loadbalance-middleware) [![Dependency status](https://img.shields.io/david/kessler/node-loadbalance-middleware.svg?style=flat-square)](https://david-dm.org/kessler/node-loadbalance-middleware)
+[![npm status](http://img.shields.io/npm/v/loadbalance-middleware.svg?style=flat-square)](https://www.npmjs.org/package/loadbalance-middleware) [![Dependency status](https://img.shields.io/david/kessler/node-loadbalance-middleware.svg?style=flat-square)](https://david-dm.org/kessler/node-loadbalance-middleware)
 
 ## example
 
