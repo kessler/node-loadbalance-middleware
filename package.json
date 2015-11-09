@@ -1,0 +1,34 @@
+{
+  "name": "loadbalance-middleware",
+  "version": "0.0.1",
+  "description": "A middleware that load balance requests between several other middlewares",
+  "license": "MIT",
+  "author": {
+    "name": "yaniv kessler",
+    "email": "yanivk@gmail.com",
+    "url": "blog.yanivkessler.com"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "loadbalance": "^0.2.7"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.3"
+  },
+  "keywords": [
+    "middleware",
+    "express",
+    "connect",
+    "loadbalance"
+  ],
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=2.0.0"
+  },
+  "repository": "kessler/node-loadbalance-middleware",
+  "bugs": "https://github.com/kessler/node-loadbalance-middleware/issues",
+  "homepage": "https://github.com/kessler/node-loadbalance-middleware"
+}
