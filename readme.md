@@ -49,6 +49,10 @@ Creates a middleware that distributes requests between the middlewares specified
 ### `loadbalance.engine(engine)`
 For more custom uses or tweaks, tou can use any engine in [loadbalance](https://github.com/kessler/node-loadbalance)
 
+## See also
+[loadbalance module](https://github.com/kessler/node-loadbalance)
+[dynamic-middleware module](https://github.com/kessler/node-dynamic-middleware))
+
 ## license
 
 [MIT](http://opensource.org/licenses/MIT) © [yaniv kessler](blog.yanivkessler.com)
