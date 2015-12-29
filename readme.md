@@ -47,7 +47,7 @@ Creates a middleware that randomly (and evently) distributes requests between th
 Creates a middleware that distributes requests between the middlewares specified in the provided array in a round robin fashion
 
 ### `loadbalance.engine(engine)`
-For more custom uses or tweaks, tou can use any engine in [loadbalance](https://github.com/kessler/node-loadbalance)
+For more custom uses or tweaks, you can use any engine in [loadbalance](https://github.com/kessler/node-loadbalance)
 
 ## see also
 [loadbalance module](https://github.com/kessler/node-loadbalance)
