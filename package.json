@@ -1,6 +1,6 @@
 {
   "name": "loadbalance-middleware",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A middleware that load balance requests between several other middlewares",
   "license": "MIT",
   "author": {
@@ -8,8 +8,7 @@
     "email": "yanivk@gmail.com",
     "url": "blog.yanivkessler.com"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "debug": "^2.2.0",
     "loadbalance": "^0.2.7"
